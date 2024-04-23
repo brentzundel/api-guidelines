@@ -2135,7 +2135,7 @@ note right of App Server: Update status and cache new "since" token
 [rfc-5988]: http://tools.ietf.org/html/rfc5988
 [rfc-3339]: https://tools.ietf.org/html/rfc3339
 [rfc-5322-3-3]: https://tools.ietf.org/html/rfc5322#section-3.3
-[cors-preflight]: http://www.w3.org/TR/cors/#resource-preflight-requests
+[cors-preflight]: https://fetch.spec.whatwg.org/#cors-preflight-request
 [rfc-3864]: http://www.ietf.org/rfc/rfc3864.txt
 [odata-json-annotations]: http://docs.oasis-open.org/odata/odata-json-format/v4.0/os/odata-json-format-v4.0-os.html#_Instance_Annotations
 [cors]: http://www.w3.org/TR/access-control/
